@@ -2,7 +2,7 @@
 <img alt="GIF" align="center" src="https://media.giphy.com/media/d5fMI9ftgQiGzoZoB9/giphy.gif">
 </div>
 
-<h2 align="center">Hello there 👋, Welcome to my github profile! <br>I'm <b>Shovon</b></h1>
+<h2 align="center">Hello there 👋! Welcome to my github profile. <br>I'm <b>Shovon</b></h1>
 <h3 align="center">tech enthusiast, otaku</h3>
 <p align="left"> <img src="https://gpvc.arturio.dev/shovon668" alt="shovon668" /> </p>
 
